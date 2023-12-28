@@ -1,0 +1,85 @@
+{
+  "footerlogo": "assets/img/footer-logo.png",
+  "footertext": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support requests.",
+  "footerbg": "assets/img/bg/footer.png",
+  "socialicon": [
+      {
+        "icon": "fa fa-facebook",
+        "url": "/"
+      },
+      {
+        "icon": "fa fa-twitter",
+        "url": "/"
+      },
+      {
+        "icon": "fa fa-linkedin",
+        "url": "/"
+      }
+    ],
+  "copyrighttext": "  © Copyright Nexus Property Made with  by <a href='https://www.facebook.com/campcoding' target='_blank'><i class=\"fa fa-heart\"></i><span>CampCoding.</span></a>",
+  "popularserces": {
+    "title": "Popular Searches",
+    "links": [
+      {
+        "title": "Apartment for Rent",
+        "url": "/property-details"
+      },
+      {
+        "title": "Apartment Low to hide",
+        "url": "/property-details"
+      },
+      {
+        "title": "Offices for Buy",
+        "url": "/property-details"
+      },
+      {
+        "title": "Offices for Rent",
+        "url": "/property-details"
+      }
+    ]
+  },
+  "Homepress": {
+    "title": "Homepress Markets",
+    "links": [
+      {
+        "title": "Cairo Offices",
+         "url": "/property-details"
+      },
+      {
+        "title": "North Coast Apartment",
+         "url": "/property-details"
+      },
+      {
+        "title": "Alexandria Townhome",
+         "url": "/property-details"
+      },
+      {
+        "title": "Sharm Elsheikh Offices",
+         "url": "/property-details"
+      }
+    ]
+  },
+  "quicklink": {
+    "title": "Quick Links",
+    "links": [
+      {
+        "title": "Pricing Plans",
+        "url": "/pricing"
+      },
+      {
+        "title": "FAQ",
+        "url": "/faq"
+      },
+      {
+        "title": "About Us",
+        "url": "/About"
+      },
+      {
+        "title": "Contact Us",
+        "url": "/contact"
+      }
+    ]
+  }
+
+
+}

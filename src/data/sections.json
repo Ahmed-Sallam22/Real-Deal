@@ -1,0 +1,2156 @@
+{ 
+  "banner":{
+        "subtitle":"The Best Way To",
+        "title1":"Find Your",
+        "title2":"Perfect Home",
+        "btntxt":"Discover Now",
+        "btnurl":"#",
+        "videolink":"#https://www.youtube.com/watch?v=c7XEhXZ_rsk"
+  },
+  "bannerv3":{
+        "title":"Real Estate <br />  Agent near You",
+        "subtitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br /> Aenean vel eros quam. Sed sit amet dictum est",
+        "btntxt":"Discover Now",
+        "btnurl":"#",
+        "videolink":"#https://www.youtube.com/watch?v=c7XEhXZ_rsk"
+  },  
+  "bannerv4":{
+        "title":"Built With Sructure",
+        "subtitle":"Modern New Apartment In Residentioal Complex",
+        "btntxt":"GET APPOINTMENT",
+        "btnurl":"#"
+  },
+  "services":{
+    "items":[
+        {
+          "title": "Upgrade to Bigger Homes",
+          "icon": "assets/img/icons/3.png",
+          "url": "#",
+          "btntxt": "Explore Now"
+        },
+        {
+          "title": "Upgrade to Bigger Homes",
+          "icon": "assets/img/icons/4.png",
+          "url": "#",
+          "btntxt": "Explore Now"
+        },
+        {
+          "title": "Upgrade to Bigger Homes",
+          "icon": "assets/img/icons/5.png",
+          "url": "#",
+          "btntxt": "Explore Now"
+        },
+        {
+          "title": "Upgrade to Bigger Homes",
+          "icon": "assets/img/icons/6.png",
+          "url": "#",
+          "btntxt": "Explore Now"
+        },
+        {
+          "title": "Upgrade to Bigger Homes",
+          "icon": "assets/img/icons/6.png",
+          "url": "#",
+          "btntxt": "Explore Now"
+        }
+      ]
+  },
+  "explore":{
+    "title": "Explore the Neighborhoods",
+    "items":[
+        {
+          "city": "Cario",
+          "image": "assets/img/explore/1.png",
+          "url": "#",
+          "lisgintnumber": "102",
+          "price": "60000"
+        },
+        {
+          "city": "Alexandria",
+          "image": "assets/img/explore/2.png",
+          "url": "#",
+          "lisgintnumber": "201",
+          "price": "80000"
+        },
+        {
+          "city": "Tanta",
+          "image": "assets/img/explore/3.png",
+          "url": "#",
+          "lisgintnumber": "85",
+          "price": "30000"
+        },
+        {
+          "city": "Giza",
+          "image": "assets/img/explore/4.png",
+          "url": "#",
+          "lisgintnumber": "115",
+          "price": "70000"
+        }
+
+      ]
+  }, 
+  "featuredproperties":{
+    "title": "Featured Properties",
+    "firstitem":
+      {
+        "title": "Fully finished villas in Sarai New Cairo, B2B Egypt",
+        "image": "assets/img/feature/1.png",
+        "price":"350/mo LE",
+        "content":"B2B Egypt company biggest Real Estate Companies in Egypt offer sarai New Cairo It is Designed by the well known",
+        "url": "/property-details",
+        "area":"1898 sq."
+      },
+    "items":[
+        {
+          "title": "B2B for Investment & Real Estate ",
+          "image": "assets/img/feature/55.png",
+          "icon":"assets/img/icons/l1.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"B2B",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Pyramids Hills Compound - 29 Properties for sale",
+          "image": "assets/img/feature/3.png",
+          "icon":"assets/img/icons/l2.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Pyramids Hills Compound",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "5A The Waterway New Cairo Commercial,Now",
+          "image": "assets/img/feature/l3.png",
+          "icon":"assets/img/icons/l3.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"New Cairo Commercial",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "retail for sale rent strip sodic west",
+          "image": "assets/img/feature/5.png",
+          "icon":"assets/img/icons/l4.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Eco West-6-October ,Apartments For Sale",
+          "image": "assets/img/feature/6.png",
+          "icon":"assets/img/icons/l5.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "wison Landville Apartment Compound in 6 October",
+          "image": "assets/img/feature/7.png",
+          "icon":"assets/img/icons/l6.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+
+      ]
+  },
+    "partner":{
+    "title": "Our Partner",
+    "items":[
+        {
+          "image": "assets/img/client/1.png"
+        },
+        {
+          "image": "assets/img/client/2.png"
+        },
+        {
+          "image": "assets/img/client/3.png"
+        },
+       {
+          "image": "assets/img/client/4.png"
+        } 
+
+      ]
+  },
+  "ads":{
+    "title": "Become a Real Estate Agent",
+    "btntxt": "REGISTER NOW",
+    "url": "/Registration"
+  },
+   "whychooseus":{
+    "title": "Why Choose Us",
+    "items":[
+        {
+          "icon": "assets/img/icons/11.png",
+          "title":"Sell, Rent Property Free",
+          "url":"#",
+          "content":"Our experts answer all queries with their unmatched knowledge at every step of home buying.",
+          "class":""
+        },
+        {
+          "icon": "assets/img/icons/12.png",
+          "title":"In-depth Info on Investment Hotspots",
+          "url":"#",
+          "content":"Our experts answer all queries with their unmatched knowledge at every step of home buying.",
+          "class":"offset-xl-1"
+        },
+        {
+          "icon": "assets/img/icons/13.png",
+          "title":"Pool of Best Property Options",
+          "url":"#",
+          "content":"Our experts answer all queries with their unmatched knowledge at every step of home buying.",
+          "class":"offset-xl-1"
+        }
+
+      ]
+  },
+   "featuredproject":{
+    "title": "Featured Projects",
+    "items":[
+        { 
+          "titleFirstItem": "Scarta New Capital Compound",
+          "imageFirstItem": "assets/img/feature/1.png",
+          "priceFirstItem":"350/mo LE",
+          "contentFirstItem":"4 Bed, 3 Beth, Flats. Area 1448-2537 sqft",
+          "urlFirstItem": "#",
+
+          "titleSecondItem": "VYE SODIC NEW ZAYED - 8 Gates Real Estate Egypt",
+          "imageSecondItem": "assets/img/feature/2.png",
+          "iconSecondItem":"assets/img/icons/l1.png",
+          "urlSecondItem": "#",
+          "olderpriceSecondItem": "790/mo LE",
+          "newerpriceSecondItem": "350/mo LE",
+          "areaSecondItem":"1898 sq.",
+          "authornameSecondItem":"8 Gates Real Estate Egypt",
+          "featuresSecondItem":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ],
+
+          "titleThirdItem": "VYE SODIC NEW ZAYED - 8 Gates Real Estate Egypt",
+          "imageThirdItem": "assets/img/feature/2.png",
+          "iconThirdItem":"assets/img/icons/l2.png",
+          "urlThirdItem": "#",
+          "olderpriceThirdItem": "790/mo LE",
+          "newerpriceThirdItem": "350/mo LE",
+          "areaThirdItem":"1898 sq.",
+          "authornameThirdItem":"8 Gates Real Estate Egypt",
+          "featuresThirdItem":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        { 
+          "titleFirstItem": "Jason Landville Apartment",
+          "imageFirstItem": "assets/img/feature/1.png",
+          "priceFirstItem":"350/mo LE",
+          "contentFirstItem":"4 Bed, 3 Beth, Flats. Area 1448-2537 sqft",
+          "urlFirstItem": "#",
+
+          "titleSecondItem": "Jason Landville Apartment",
+          "imageSecondItem": "assets/img/feature/5.png",
+          "iconSecondItem":"assets/img/icons/l4.png",
+          "urlSecondItem": "#",
+          "olderpriceSecondItem": "790/mo LE",
+          "newerpriceSecondItem": "350/mo LE",
+          "areaSecondItem":"1898 sq.",
+          "authornameSecondItem":"Vilma Jarvi By Redbrox",
+          "featuresSecondItem":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ],
+
+          "titleThirdItem": "Jason Landville Apartment",
+          "imageThirdItem": "assets/img/feature/5.png",
+          "iconThirdItem":"assets/img/icons/l5.png",
+          "urlThirdItem": "#",
+          "olderpriceThirdItem": "790/mo LE",
+          "newerpriceThirdItem": "350/mo LE",
+          "areaThirdItem":"1898 sq.",
+          "authornameThirdItem":"Vilma Jarvi By Redbrox",
+          "featuresThirdItem":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+
+      ]
+  },   
+  "recentproperties":{
+    "title": "Recent Properties for Sold",
+    "btnurl":"/property",
+      "items":[
+        {
+          "title": "Apartments in North Coast- 366 Properties",
+          "image": "assets/img/feature/4.png",
+          "icon":"assets/img/icons/l3.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Il Mondo Compound in A New Capital - More Expert",
+          "image": "assets/img/feature/5.png",
+          "icon":"assets/img/icons/l4.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"8 Gates Real Estate Egypt",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "B2B for Investment & Real Estate Egypt Marketing",
+          "image": "assets/img/feature/6.png",
+          "icon":"assets/img/icons/l5.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"8 Gates Real Estate Egypt",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Ivory Business Park For Sale Now in Al-Sheikh-Zayed",
+          "image": "assets/img/feature/7.png",
+          "icon":"assets/img/icons/l6.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"8 Gates Real Estate Egypt",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+      ]
+  },
+   "propertiesbycities":{
+    "title": "Properties by Cities",
+    "items":[
+        {
+          "class": "col-lg-2 col-sm-6 hi",
+          "sectionclass":"sc-one",
+          "image":"assets/img/city/1.png",
+          "city":"New Capital",
+          "url":"/properties-by-city",
+          "content":"10 Properties"
+        },
+        {
+          "class": "col-lg-2 col-sm-6",
+          "sectionclass":"sc-two",
+          "image":"assets/img/city/2.png",
+          "city":"Cairo",
+          "url":"/properties-by-city",
+          "content":"4 Properties"
+        },
+        {
+          "class": "col-lg-5 col-sm-6",
+          "sectionclass":"",
+          "image":"assets/img/city/3.png",
+          "city":"North Coast Compound",
+          "url":"/properties-by-city",
+          "content":"10 Properties"
+        },
+        {
+          "class": "col-lg-3 col-sm-6",
+          "sectionclass":"sc-three",
+          "image":"assets/img/city/4.png",
+          "city":"Giza",
+          "url":"/properties-by-city",
+          "content":"5 Properties"
+        },  
+        {
+          "class": "col-lg-4 col-sm-6",
+          "sectionclass":"",
+          "image":"assets/img/city/4cop.png",
+          "city":"Nile River Compound",
+          "url":"/properties-by-city",
+          "content":"15 Properties"
+        },
+         {
+          "class": "col-lg-4 col-sm-6",
+          "sectionclass":"",
+          "image":"assets/img/city/1cop.png",
+          "city":"North Coast Compound",
+          "url":"/properties-by-city",
+          "content":"3 Properties"
+        },
+        {
+          "class": "col-lg-3 col-sm-6",
+          "sectionclass":"",
+          "image":"assets/img/city/7.png",
+          "city":"Dahab",
+          "url":"/properties-by-city",
+          "content":"2 Properties"
+        }
+
+      ],
+    "intro":[
+      {
+        "title":"Looking for the new home?",
+        "url":"",
+        "content":"10 new offers every day. 350 offers on site, trusted by a community of thousands of users.",
+        "icon":"assets/img/icons/9.png",
+        "class":"single-intro-media-active"
+      },
+      {
+        "title":"Want to sell your home?",
+        "url":"",
+        "content":"10 new offers every day. 350 offers on site, trusted by a community of thousands of users.",
+        "icon":"assets/img/icons/10.png"
+      }
+    ]
+  },
+   "property":{
+      "items":[
+        {
+          "title": "Apartments in North Coast- 366 Properties",
+          "image": "assets/img/feature/4.png",
+          "icon":"assets/img/icons/l3.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Il Mondo Compound in A New Capital - More Expert",
+          "image": "assets/img/feature/5.png",
+          "icon":"assets/img/icons/l4.png",
+           "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "B2B for Investment & Real Estate Egypt Marketing",
+          "image": "assets/img/feature/6.png",
+          "icon":"assets/img/icons/l5.png",
+           "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat2",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "JIvory Business Park For Sale in Al-Sheikh-Zayed",
+          "image": "assets/img/feature/7.png",
+          "icon":"assets/img/icons/l2.png",
+           "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Tawny Hyde-Park-6-October For Sale",
+          "image": "assets/img/feature/8.png",
+          "icon":"assets/img/icons/l3.png",
+           "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "B2B for Investment & Real Estate Egypt Marketing",
+          "image": "assets/img/feature/9.png",
+          "icon":"assets/img/icons/l4.png",
+           "url": "/property-details",
+          "olderprice": "790/mo LB",
+          "newerprice": "350/mo LB",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Pavo Tower, New Capital Egypt on Behance",
+          "image": "assets/img/feature/3.png",
+          "icon":"assets/img/icons/l5.png",
+           "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+           "cat":"cat1 cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "B2B for Investment & Real Estate Egypt Marketing",
+          "image": "assets/img/feature/l1.png",
+          "icon":"assets/img/icons/l6.png",
+           "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+      ]
+  },
+    "topquthor":{
+    "title": "Top  Author",
+    "items":[
+        {
+          "icon": "assets/img/author/5.png",
+          "compnaname":"Get React",
+          "url":"#"
+        },
+        {
+          "icon": "assets/img/author/2.png",
+          "compnaname":"Awesome Technology",
+          "url":"#"
+        },
+        {
+          "icon": "assets/img/author/3.png",
+          "compnaname":"Black And White",
+          "url":"#"
+        },
+        {
+          "icon": "assets/img/author/4.png",
+          "compnaname":"React May",
+          "url":"#"
+        }
+
+
+      ]
+  },
+   "propertybtcities":{
+     "sectiontitle":"United Stated",
+      "items":[
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/4.png",
+          "icon":"assets/img/icons/l3.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Vegas Landville Apartment",
+          "image": "assets/img/feature/5.png",
+          "icon":"assets/img/icons/l4.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "United Landville Apartment",
+          "image": "assets/img/feature/6.png",
+          "icon":"assets/img/icons/l5.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat2",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/7.png",
+          "icon":"assets/img/icons/l2.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/8.png",
+          "icon":"assets/img/icons/l3.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/9.png",
+          "icon":"assets/img/icons/l4.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/3.png",
+          "icon":"assets/img/icons/l5.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+           "cat":"cat1 cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/3.png",
+          "icon":"assets/img/icons/l6.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+      ]
+  },
+  "recinabdproperties":{
+    "btnurl":"#",
+    "title":"Recommended",
+      "items":[
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/4.png",
+          "icon":"assets/img/icons/l3.png",
+          "url": "#",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Vegas Landville Apartment",
+          "image": "assets/img/feature/5.png",
+          "icon":"assets/img/icons/l4.png",
+          "url": "#",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "United Landville Apartment",
+          "image": "assets/img/feature/6.png",
+          "icon":"assets/img/icons/l5.png",
+          "url": "#",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/7.png",
+          "icon":"assets/img/icons/l6.png",
+          "url": "#",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+      ]
+  },
+  "mission":{
+      "items":[
+          {
+            "number":"01",
+            "title":"Our Mission",
+            "url":"#",
+            "content":"At the core of our real estate practice,we are committed to strive for the highest standards in this industry To provide superior full-service real estate brokerage with in-depth market knowledge and ethical practices"
+          },
+          {
+            "number":"02",
+            "title":"Our Vision",
+            "url":"#",
+            "content":"Our vision is to be the leading Real Estate Agency that provides the best of both worlds, buying and or selling, experience for our clients. To be Egyptian first choice in every aspect of the real estate industry as we serve to provide our community to achieve their real estate needs and to unlock their best life with QuadWalls",
+            "class":"offset-xl-1"
+          },
+          {
+            "number":"03",
+            "title":"Our Values",
+            "url":"#",
+            "content":"Staying as loyal to our employee as they are to us Building long-term relationships with clients. Staying as loyal to our employee as they are to us. Constant growth and development Always delivering results Service that does not end at the transaction",
+             "class":"offset-xl-1"
+          }
+      ]
+  },
+  "missiontwo":{
+      "items":[
+          {
+            "title":"Foundedn",
+            "url":"#",
+            "image":"assets/img/icons/11.png",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae venenatis mi"
+          },
+          {
+            "title":"Financials",
+            "url":"#",
+            "image":"assets/img/icons/12.png",
+            "class":"offset-xl-1 mb-3",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae venenatis mi"
+          },
+          {
+            "title":"Owner & Developer",
+            "url":"#",
+            "class":"offset-xl-1 mb-3",
+            "image":"assets/img/icons/13.png",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae venenatis mi"
+          }
+      ]
+  },
+  "pricing":{
+    "title":"One time Payment Pricing",
+      "items":[
+          {
+            "name":"DownPayment",
+            "precentatge":"10%",
+            "price":"900,000 LE",
+            "time":"24 Months",
+            "icon":"assets/img/icons/22.png",
+            "btntxt":"Buy Plans",
+            "DownPAyment":"100,000 LE",
+            "url":"#",
+            "feature":[
+              "Installments up to 24 months"
+          
+            ]
+           
+          },
+          {
+            "name":"BUSINESS",
+            "precentatge":"20%",
+            "price":"200,000 LE",
+            "time":"24 Months",
+            "DownPAyment":"105,000 LE",
+            "icon":"assets/img/icons/22.png",
+            "btntxt":"Buy Plans",
+            "url":"#",
+            "feature":[
+              "Installments up to 24 months"
+            ]
+           
+          }, 
+          {
+            "name":"ENTEPRISE",
+            "precentatge":"30%",
+            "price":"250,000 LE",
+            "time":"48 Months",
+            "DownPAyment":"110,000 LE",
+
+            "icon":"assets/img/icons/22.png",
+            "btntxt":"Buy Plans",
+            "url":"#",
+            "feature":[
+              "Installments up to 48 months"
+              
+            ]
+          },
+          {
+            "name":"ONE FEATURE",
+            "precentatge":"35%",
+            "price":"300,000 LE",
+            "time":"60 Months",
+            "DownPAyment":"120,000 LE",
+
+            "icon":"assets/img/icons/22.png",
+            "btntxt":"Buy Plans",
+            "url":"#",
+            "feature":[
+              "Installments up to 60 months"
+           
+            ]
+          }
+      ]
+  },
+  "buyorsell":{
+      "title":"Whether Buying or Selling",
+      "subtitle":"A top agent is here to help save you time.",
+      "items":[
+          {
+          "icon":"assets/img/icons/26.png",
+           "btn_text":"Buying Now",
+           "url":"#"
+          },
+          {
+          "icon":"assets/img/icons/27.png",
+           "btn_text":"Selling It",
+           "url":"#"
+          }
+      ]
+  },
+  "userlist":{
+      "items":[
+        {
+          "icon":"assets/img/icons/l1.png",
+          "name":"Company Name",
+          "address":"Los Angeles, city, United States <br> of America",
+          "url":"#",
+          "mobile":"+00 111 222 333",
+          "phone":"(879) 823-3302",
+          "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+          {
+          "icon":"assets/img/icons/l1.png",
+          "name":"Company Name",
+          "address":"Los Angeles, city, United States <br> of America",
+          "url":"#",
+          "mobile":"+00 111 222 333",
+          "phone":"(879) 823-3302",
+          "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+          {
+          "icon":"assets/img/icons/l1.png",
+          "name":"Company Name",
+          "address":"Los Angeles, city, United States <br> of America",
+          "url":"#",
+          "mobile":"+00 111 222 333",
+          "phone":"(879) 823-3302",
+          "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+          {
+          "icon":"assets/img/icons/l1.png",
+          "name":"Company Name",
+          "address":"Los Angeles, city, United States <br> of America",
+          "url":"#",
+          "mobile":"+00 111 222 333",
+          "phone":"(879) 823-3302",
+          "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+          {
+          "icon":"assets/img/icons/l1.png",
+          "name":"Company Name",
+          "address":"Los Angeles, city, United States <br> of America",
+          "url":"#",
+          "mobile":"+00 111 222 333",
+          "phone":"(879) 823-3302",
+          "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+          {
+          "icon":"assets/img/icons/l1.png",
+          "name":"Company Name",
+          "address":"Los Angeles, city, United States <br> of America",
+          "url":"#",
+          "mobile":"+00 111 222 333",
+          "phone":"(879) 823-3302",
+          "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+          {
+          "icon":"assets/img/icons/l1.png",
+          "name":"Company Name",
+          "address":"Los Angeles, city, United States <br> of America",
+          "url":"#",
+          "mobile":"+00 111 222 333",
+          "phone":"(879) 823-3302",
+          "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+          {
+          "icon":"assets/img/icons/l1.png",
+          "name":"Company Name",
+          "address":"Los Angeles, city, United States <br> of America",
+          "url":"#",
+          "mobile":"+00 111 222 333",
+          "phone":"(879) 823-3302",
+          "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+          {
+          "icon":"assets/img/icons/l1.png",
+          "name":"Company Name",
+          "address":"Los Angeles, city, United States <br> of America",
+          "url":"#",
+          "mobile":"+00 111 222 333",
+          "phone":"(879) 823-3302",
+          "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          }
+      ]
+  },
+    "aboutus":{
+      "subtitle":"About Us",
+      "title":"We Are Dynamic Team And Business Agency",
+      "content":"Quad Walls Brokerage is central point where our professional team are obligated to serve buyers and developers. Customer service is our number one priority. We strive to provide a consistent superior level of service that surpasses clients’ expectations. We sincerely believe that direct and honest communication is the basis for any successful business relationship and pride ourselves on our client testimonials",
+      "btn_text":"More Service",
+      "url":"#",
+      "image":"assets/img/others/7.png"
+  },
+  "aboutusv2":{
+      "title":"About <br />Luxurius Home",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel eros quam. Sed sit amet dictum est, at fringilla enim. Praesent varius risus a convallis placerat. Aenean hendrerit lorem auctor ex condimentum pulvinar. Donec ornare imperdiet eros, varius eleifend sapien pharetra gravida. Sed sed tortor congue, tincidunt eros eu, egestas leo. Etiam turpis nunc, sagittis nec mauris vitae,",
+      "btn_text":"Learn More ",
+      "url":"#",
+      "featureswithicon":[
+        {
+          "title":"05 Bed",
+          "icon":"fa fa-bed",
+          "ur":"#"
+        },
+        {
+          "title":"03 Bed",
+          "icon":"fa fa-bath",
+          "ur":"#"
+        },         
+        {
+          "title":"01 Garage",
+          "icon":"fa fa-car",
+          "ur":"#"
+        }
+
+      ],
+      "featureswithimage":[
+
+        {
+          "title":"01 Kitchens",
+          "image":"assets/img/icons/14.png",
+          "ur":"#"
+        },
+        {
+          "title":"Drawing room",
+          "image":"assets/img/icons/15.png",
+          "ur":"#"
+        },        
+        {
+          "title":"1890 sq. ft",
+          "image":"assets/img/icons/16.png",
+          "ur":"#"
+        }
+
+      ]
+  },
+  "profession":{
+      "title1":"Top Local",
+      "title2":"Professisonals",
+      "content":"Hand selected, local experienced agents, and neighborhood specialists, work with you to achieve your goals. The highest level of market knowledge, transparency, technology utilization, and transaction experience.",
+      "btn_text":"Connect Now",
+      "url":"#",
+      "image":"assets/img/others/8.png"
+  },
+   "sellhome":{
+      "title1":"Sell your",
+      "title2":"Home for More",
+      "content":"Partner with a top neighborhood specialist to sell your home. Combined with our high level marketing approach, negotiation skills, technology, transparency, and experience, our concierge service provides results second to none",
+      "btn_text":"Find Out How",
+      "url":"#",
+      "image":"assets/img/others/9.png"
+  },
+   "process":{
+      "title1":"Buying Process",
+      "title2":"Simplified",
+      "content":"Hand selected, local experienced agents, and neighborhood specialists, work with you to achieve your goals. The highest level of market knowledge, transparency, technology utilization, and transaction experience.",
+      "btn_text":"Find Out How",
+      "url":"#",
+      "image":"assets/img/others/7.png"
+  },
+    "servicetwo":{
+      "subtitle":"Best Service",
+      "title":"Service We Provide",
+      "content1":"WPartner with a top neighborhood specialist to sell your home. Combined",
+      "content2":"with our high level marketing approach, negotiation skills,",
+      "items":[
+          {
+            "title":"Our Marketing Analaysis",
+            "content1":"Undertaking all categories of project sales on behalf of developers.  ",
+            "content2":"Supply, demand and future trends",
+            "icon":"assets/img/icons/19.png",
+            "btntxt":"Read More",
+            "url":"#"
+          }
+      ]
+  },
+  "faq":{
+      "title":"Frequently <br />asked questions",
+      "image":"assets/img/others/6.png",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis enim vel leo laoreet, quis sodales purus blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "items":[
+          {
+            "title":"Lorem ipsum dolor sit amet, consectetur",
+            "class":"show",
+            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis enim vel leo laoreet, quis sodales purus blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+          },
+          {
+            "title":"Consectetur adipiscing elit. Sed lobortis",
+            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis enim vel leo laoreet, quis sodales purus blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+          },
+          {
+            "title":"Lorem ipsum dolor sit amet, consectetur",
+            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis enim vel leo laoreet, quis sodales purus blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+          },
+          {
+            "title":"Consectetur adipiscing elit. Sed lobortis",
+            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis enim vel leo laoreet, quis sodales purus blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+          }
+      ]
+  },
+   "team":{
+      "title":"We Are Dynamic Team",
+      "titlev2":"Our Team",
+      "items":[
+          {
+            "name":"Louis Rowley",
+            "designation":"Co-Founder",
+            "image":"assets/img/team/1.png",
+            "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+           {
+            "name":"Riley Moss",
+            "designation":"Developer ",
+            "image":"assets/img/team/2.png",
+            "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+          {
+            "name":"Max Gotch",
+            "designation":"Founder ",
+            "image":"assets/img/team/3.png",
+            "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          },
+          {
+            "name":"Jamie Coal",
+            "designation":"Manager ",
+            "image":"assets/img/team/4.png",
+            "social":[
+              {
+                "icon":"fa fa-facebook",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-twitter",
+                "url":"#"
+              },
+              {
+                "icon":"fa fa-instagram",
+                "url":"#"
+              }
+            ]
+          }
+      ]
+  },
+   "client":{
+      "title1":"What Our Customers ",
+      "title2":"Are Saying ",
+      "items":[
+          {
+            "name":"Varun Vachhar",
+            "designation":"Land Owner",
+            "image":"assets/img/client/5.png",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla dui nibh, idhendrerit tellus rhoncus sit amet. Suspendisse semper, inrhoncus nulla consectetur,sem erat accumsan lacus, et nulla diam eu turpis."
+          },
+          {
+            "name":"Tayla Elias",
+            "designation":"Land Owner",
+            "image":"assets/img/client/6.png",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla dui nibh, idhendrerit tellus rhoncus sit amet. Suspendisse semper, inrhoncus nulla consectetur,sem erat accumsan lacus, et nulla diam eu turpis."
+          },
+          {
+            "name":"Luca Inwood",
+            "designation":"Land Owner",
+            "image":"assets/img/client/7.png",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla dui nibh, idhendrerit tellus rhoncus sit amet. Suspendisse semper, inrhoncus nulla consectetur,sem erat accumsan lacus, et nulla diam eu turpis."
+          },
+           {
+            "name":"George Kavel",
+            "designation":"Land Owner",
+            "image":"assets/img/client/8.png",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla dui nibh, idhendrerit tellus rhoncus sit amet. Suspendisse semper, inrhoncus nulla consectetur,sem erat accumsan lacus, et nulla diam eu turpis."
+          }
+            
+      ]
+  },
+  "searchgrid":{
+      "items":[
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/4.png",
+          "icon":"assets/img/icons/l3.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Vegas Landville Apartment",
+          "image": "assets/img/feature/5.png",
+          "icon":"assets/img/icons/l4.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "United Landville Apartment",
+          "image": "assets/img/feature/6.png",
+          "icon":"assets/img/icons/l5.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat2",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/7.png",
+          "icon":"assets/img/icons/l2.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/8.png",
+          "icon":"assets/img/icons/l3.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/9.png",
+          "icon":"assets/img/icons/l4.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/3.png",
+          "icon":"assets/img/icons/l5.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+           "cat":"cat1 cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/3.png",
+          "icon":"assets/img/icons/l6.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "United Landville Apartment",
+          "image": "assets/img/feature/6.png",
+          "icon":"assets/img/icons/l5.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat2",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+      ]
+  },
+  "searchlist":{
+      "items":[
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/l1.png",
+          "icon":"assets/img/icons/l3.png",
+          "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Vegas Landville Apartment",
+          "image": "assets/img/feature/l2.png",
+          "icon":"assets/img/icons/l3.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "United Landville Apartment",
+          "image": "assets/img/feature/l3.png",
+          "icon":"assets/img/icons/l5.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat2",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/l4.png",
+          "icon":"assets/img/icons/l2.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+      ]
+  },
+  "popularproperty":{
+     "sectiontitle":"Popular Property",
+      "items":[
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/4.png",
+          "icon":"assets/img/icons/l3.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Vegas Landville Apartment",
+          "image": "assets/img/feature/5.png",
+          "icon":"assets/img/icons/l4.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "United Landville Apartment",
+          "image": "assets/img/feature/6.png",
+          "icon":"assets/img/icons/l5.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat2",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/7.png",
+          "icon":"assets/img/icons/l2.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/8.png",
+          "icon":"assets/img/icons/l3.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/9.png",
+          "icon":"assets/img/icons/l4.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/3.png",
+          "icon":"assets/img/icons/l5.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+           "cat":"cat1 cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/3.png",
+          "icon":"assets/img/icons/l6.png",
+         "url": "/property-details",
+          "olderprice": "790/mo LE",
+          "newerprice": "350/mo LE",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+      ]
+  },
+  "dream":{
+     "sectiontitle":"Follow steps make dream",
+     "subtitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla dui nibh, idhendrerit tellus rhoncus sit amet",
+     "image":"assets/img/others/1.jpg",
+      "items":[
+        {
+          "title": "Get a link from your agent",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel eros quam. Sed sit amet dictum est, at fringilla enim Praesent. ",
+          "icon":"fa fa-user-o"
+        },
+        {
+          "title": "Get a link from your agent",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel eros quam. Sed sit amet dictum est, at fringilla enim Praesent. ",
+          "icon":"desktop"
+        },
+        {
+          "title": "Get a link from your agent",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel eros quam. Sed sit amet dictum est, at fringilla enim Praesent. ",
+          "icon":"fa fa-home",
+          "class":"mb-0"
+        }
+      ]
+  },
+    "roomspacing":{
+      "items":[
+        {
+          "image": "assets/img/others/4.png",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel eros quam. Sed sit amet dictum est, at fringilla enim. Praesent varius risus a convallis placerat. Aenean hendrerit lorem auctor ex ",
+          "number":"01",
+          "title":"Room Dimensions",
+          "subtitle":"Enjoyable Spacings",
+          "listone":[
+            "Full Furnished",
+            "Royal touch Point",
+            "Minimal Decored",
+            "Tow way Road"
+          ],
+           "listtwo":[
+            "Full Furnished",
+            "Royal touch Point",
+            "Minimal Decored",
+            "Small Garden"
+          ]
+
+        },
+        {
+          "image": "assets/img/others/3.png",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel eros quam. Sed sit amet dictum est, at fringilla enim. Praesent varius risus a convallis placerat. Aenean hendrerit lorem auctor ex ",
+          "number":"01",
+          "title":"Room Dimensions",
+          "subtitle":"Enjoyable Spacings",
+          "listone":[
+            "Full Furnished",
+            "Royal touch Point",
+            "Minimal Decored",
+            "Tow way Road"
+          ],
+           "listtwo":[
+            "Full Furnished",
+            "Royal touch Point",
+            "Minimal Decored",
+            "Small Garden"
+          ]
+
+        },
+        {
+          "image": "assets/img/others/2.png",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel eros quam. Sed sit amet dictum est, at fringilla enim. Praesent varius risus a convallis placerat. Aenean hendrerit lorem auctor ex ",
+          "number":"01",
+          "title":"Room Dimensions",
+          "subtitle":"Enjoyable Spacings",
+          "listone":[
+            "Full Furnished",
+            "Royal touch Point",
+            "Minimal Decored",
+            "Tow way Road"
+          ],
+           "listtwo":[
+            "Full Furnished",
+            "Royal touch Point",
+            "Minimal Decored",
+            "Small Garden"
+          ]
+
+        }
+      ]
+  },
+   "appertmentslider":{
+      "items":[
+        {
+          "image": "assets/img/others/2.png",
+          "title":"Jason Landville Apartments",
+          "OlderPrice":"$750.00",
+          "newPrice":"$700.00",
+          "itemlists":[
+             {
+              "title":"109 Oxford St Soho:",
+              "subtitle":"52m2",
+              "icon":"fa fa-arrows-alt"
+             },
+             {
+              "title":"Structure:",
+              "subtitle":"3 Bedroom",
+              "icon":"fa fa-bed"
+             },
+              {
+              "title":"Accommodation:",
+              "subtitle":"Furnished",
+              "icon":"fa fa-bath"
+             },
+             {
+              "title":"Heating:",
+              "subtitle":"Floor Heatin",
+              "icon":"fa fa-bath"
+             }
+          ]
+
+        },
+        {
+          "image": "assets/img/others/3.png",
+          "title":"Vegas Landville Apartments",
+          "OlderPrice":"$750.00",
+          "newPrice":"$700.00",
+          "itemlists":[
+             {
+              "title":"109 Oxford St Soho:",
+              "subtitle":"52m2",
+              "icon":"fa fa-arrows-alt"
+             },
+             {
+              "title":"Structure:",
+              "subtitle":"3 Bedroom",
+              "icon":"fa fa-bed"
+             },
+              {
+              "title":"Accommodation:",
+              "subtitle":"Furnished",
+              "icon":"fa fa-bath"
+             },
+             {
+              "title":"Heating:",
+              "subtitle":"Floor Heatin",
+              "icon":"fa fa-bath"
+             }
+          ]
+
+        }
+      ]
+  }            
+
+}
